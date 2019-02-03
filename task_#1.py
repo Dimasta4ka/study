@@ -1,1 +1,1 @@
-print('я пидор!')
+print('я cool!')
