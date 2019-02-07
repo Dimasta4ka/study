@@ -9,3 +9,7 @@ print(full_name)
 print("Hello, " + full_name.title() + "!")
 massage = "Hello, " + full_name.title() + "!"
 print(massage)
+print("Python")
+print("\tPython")
+print("Languages:\nPython\nC\nJavaScript")
+print("Languages:\n\tPython\n\tC\n\tJavaScript")
