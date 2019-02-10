@@ -1,9 +1,9 @@
 soda = ['cola', 'fanta', 'sprite']
-print(soda[0])
-print(soda[1])
-print(soda[2])
-print('My favorite soda is ' + soda[0].title())
-print('My favorite soda is ' + soda[1].title())
-print('My favorite soda is ' + soda[2].title())
-
+print(soda)
+print("I want to buy " + soda[0] + "in the store")
+print("I want to buy " + soda[1] + "in the store")
+print("I want to buy " + soda[2] + "in the store")
+print("I didn't find " + soda[1] + "in the store")
+soda[1] = "pepsi"
+print("I'll buy " + soda[1] + "instead")
 
